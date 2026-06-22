@@ -1,4 +1,5 @@
 🛍️ End-to-End Customer Shopping Behavior Analytics
+
 An end-to-end data pipeline that transforms raw retail transaction data into actionable business intelligence. This project demonstrates data cleaning and Exploratory Data Analysis (EDA) in Python, relational database modeling and querying in PostgreSQL, and interactive executive reporting in Power BI.
 
 🛠️ Tech Stack & Skills
